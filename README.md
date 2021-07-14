@@ -1,2 +1,2 @@
 # Sentiment-Analysis-from-Text-Reviews
-It analyses the movie review entered by a user for any specific movie and analyses what is the sentiment of the review. 
+Sentiment analysis is a natural language processing problem where text is understood and the underlying intent is predicted. Sentiment analysis, also called opinion mining, is the field of study that analyzes people’s opinions, sentiments, evaluations, appraisals, attitudes, and emotions towards entities such as products, services, organizations, individuals, issues, events, topics, and their attributes. In this project, we analyse the movie review entered by a user for any specific movie and predicts what is the sentiment of the review. 
